@@ -104,14 +104,6 @@ Sample SvS rules below:
 <!-- TODO: add the territory diagram image at images/castle-battle-territory.png -->
 ![Castle Battle Territory](images/castle-battle-territory.png)
 
-```
-            N
-        3157 / 3157
-   W  ────────────  E
-        3156 \ 3156
-            S
-```
-
 The reason is simple: it's easier to see. If the other state is adamant, make sure we get the East or West half. The north is undesirable.
 
 Let's also discuss appointments in the negotiations. This is an ideal time, as both states are on equal footing and it's in both parties' interest to share. A simple framework: winner gets priority on days when buffs are on, free-for-all every other time.
